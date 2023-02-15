@@ -1,0 +1,16 @@
+In today's digital world, security is a top priority for organizations of all sizes. 
+Role-Based Access Control (RBAC) is a key component of DevOps that helps ensure the security of services and data. RBAC is a security model that controls access to resources based on the roles assigned to users.
+
+Role-Based Access Control (RBAC) is crucial for ensuring secure access to services and reducing the risk of unauthorized access.
+
+Here's what happens when a client makes a request:
+
+1. 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙨𝙚𝙣𝙩 📥
+
+2. 𝘼𝙪𝙩𝙝𝙚𝙣𝙩𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙖𝙣𝙙 𝙖𝙪𝙩𝙝𝙤𝙧𝙞𝙯𝙖𝙩𝙞𝙤𝙣 𝙘𝙝𝙚𝙘𝙠𝙨 🔐
+
+3. 𝙋𝙧𝙤𝙘𝙚𝙨𝙨𝙞𝙣𝙜 𝙖𝙣𝙙 𝙧𝙚𝙨𝙥𝙤𝙣𝙨𝙚 𝙜𝙚𝙣𝙚𝙧𝙖𝙩𝙞𝙤𝙣
+
+4. 𝙍𝙚𝙨𝙥𝙤𝙣𝙨𝙚 𝙨𝙚𝙣𝙩 𝙗𝙖𝙘𝙠 📤
+
+💡 Implementing RBAC allows you to define roles, assign permissions, and control access to resources based on user roles. This results in a secure and efficient service delivery. 🔒
